@@ -33,7 +33,9 @@ The same shift is occurring with the move to the DevOps Model.  Software enginee
 
 
 ## Do I need to learn to become a programmer?
-Yes and No.  The more you learn, the more useful you'll be in the long run, but you're talking years of learning and studying to get good at it.  Unless you find you're really passionate about what programming, you don't really need to.  You mostly need to know how to talk to the programmers and how to let them know what is needed.
+Yes and No.  The more you learn, the more useful you'll be in the long run, but you're talking years of learning and studying to get good at it.  Unless you find you're really passionate about learning to program, you don't really need to.  You mostly need to know how to talk to the programmers and how to let them know what is needed.
+
+To be clear, you'll need to know the basics, but as far as the more advanced things, that will come with time.
 
 
 ## Where do I start?
