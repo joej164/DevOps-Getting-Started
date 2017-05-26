@@ -57,7 +57,7 @@ This is a tool for parsing REST API's.  I think you can also use it for SOAP API
 
 At that point, it's really easy to create scripts.  The code may not be nice and pretty, but they it works.
 
-**Pro Tip:**
+Pro Tip:
 *There are 2 versions of Postman, thick and thin.
 Use the thick client if you're working on Lab Boxes.
 The Google Plugin doesn't work well with devices that require HTTPS but don't have secure connections.*
@@ -66,7 +66,8 @@ The Google Plugin doesn't work well with devices that require HTTPS but don't ha
 
 I plan on writing a guide to using Postman from a non-programmers point of view.  I'll link that here in the future.
 
-** Learn API's **
+**Learn API's**
+
 Google Maps has an easy REST API, look that up.  A number of other open source tools have REST API's on the public internet.  Do some google searches, then use Postman to start querying them.
 
 Once you have the basics down, move on to understand how your devices API work.  Your Software Engineers aren't going to know the ins and outs of your devices, that's your job.  Make it easy for them and they'll make your life much easier.
