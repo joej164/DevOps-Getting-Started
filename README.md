@@ -46,6 +46,7 @@ To be clear, you'll need to know the basics, but as far as the more advanced thi
 * Pull down this document onto a local repository and edit it.
   * At the end I'm going to have a visitor log, add your name to this document.
   * If you have some edits you'd like to make, go for it.  I'll review and commit if they make sense.
+  * This document is at https://github.com/joej164/DevOps-Getting-Started
 
 Use this document as a way to practice contributing to other people’s GitHub accounts.  Create your own.  
 
