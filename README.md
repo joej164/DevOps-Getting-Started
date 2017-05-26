@@ -51,7 +51,9 @@ I'm creating this document as a way of understanding how GitHub works as well as
 
 **Learn [Postman](https://www.getpostman.com/)**
 
-This is a tool for parsing REST API's.  I think you can also use it for SOAP API's also, but i've not investigated.  What's really cools is you can create code snippets for whatever language your Programmers want to use.  
+This is a tool for parsing REST API's.  I think you can also use it for SOAP API's also, but i've not investigated.  What's really cool is you can create functional code snippets for whatever language your Programmers want to use.  
+
+At that point, it's really easy to create scripts.  The code may not be nice and pretty, but they it works.
 
 **Pro Tip:**
 *There are 2 versions of Postman, thick and thin.
