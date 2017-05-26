@@ -66,7 +66,13 @@ The Google Plugin doesn't work well with devices that require HTTPS but don't ha
 
 I plan on writing a guide to using Postman from a non-programmers point of view.  I'll link that here in the future.
 
+** Learn API's **
+Google Maps has an easy REST API, look that up.  A number of other open source tools have REST API's on the public internet.  Do some google searches, then use Postman to start querying them.
+
+Once you have the basics down, move on to understand how your devices API work.  Your Software Engineers aren't going to know the ins and outs of your devices, that's your job.  Make it easy for them and they'll make your life much easier.
+
 ## Learn a programming language
+Once you've figured out how to query API's then start worring about a programming language.
 
 * Pick a programming language to learn, start with one
   * JavaScript is the language of the web browsers
