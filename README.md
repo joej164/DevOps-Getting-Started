@@ -1,5 +1,32 @@
 # Intro to DevOps from a Network and Telephony Perspective
 
+DevOps is the new hotness and/or buzzword in the Technology industry.  This document is a brief overview of what i've learned recently DevOps is and things a Network / Telephony / Infrastrucure engineer needs to know to stay relevent in the industry.
+
+## What is DevOps?
+
+Here's the Google Link to wikipedia.
+[Wikipedia link to DevOps Definition](https://en.wikipedia.org/wiki/DevOps)
+
+It's the merging of Software Engineering and Infrastructure engineering into one team or group.
+
+## What does this mean to you?
+In the next 5 years i predict, all new Network / Telephony / Infrastructure gear will be progrogrammed primarially via API's.  
+
+This means as an Infrastructure Engineer you need to learn new skills.
+* What do Software Engineers do?
+* What tools do they use?
+* What is an API?
+* How can I use it to make my box do stuff?
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/joej164/DevOps-Getting-Started/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
