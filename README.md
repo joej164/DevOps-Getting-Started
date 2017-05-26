@@ -21,9 +21,10 @@ This means as an Infrastructure Engineer you need to learn new skills.
 * What is an API?
 * How can I use it to make my box do stuff?
 
-
-> I didn't mention learning software languages.  I believe this will be useful, but not required at first
-
+```
+I didn't mention learning software languages.  
+I believe this will be useful, but not required at first.
+```
 
 ## Why do I need to learn this?
 I come from a Telecom background.  In the early 2000's when IP Telephony started happening, Telecom engineers who wanted to stay relevant had to learn new skills.  What's in IP address?  What a subnet?  The network engineer didn't care about this.  Nor did s/he have to.  They already had enough on their plate without having to learn about dial plans and hunt groups.  
@@ -55,9 +56,11 @@ I'm creating this document as a way of understanding how GitHub works as well as
 This is a tool for parsing REST API's.  I think you can also use it for SOAP API's also, but i've not investigated.  What's really cools is you can create code snippets for whatever language your Programmers want to use.  
 
 **Pro Tip**
-> There are 2 versions of Postman, thick and thin.
-> Use the thick client if you're working on Lab Boxes.
-> The Google Plugin doesn't work well with devices that require HTTPS but don't have secure connections.
+```
+There are 2 versions of Postman, thick and thin.
+Use the thick client if you're working on Lab Boxes.
+The Google Plugin doesn't work well with devices that require HTTPS but don't have secure connections.
+```
 
 
 I plan on writing a guide to using Postman from a non-programmers point of view.  I'll link that here in the future.
