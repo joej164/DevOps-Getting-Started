@@ -12,7 +12,7 @@ It's the merging of Software Engineering and Infrastructure engineering into one
 In a practical terms, the Infrastructure teams are going to be looking for Software Engineers to add to their teams rather than more Infrastructure Engineers.  Your skills will have less of a demand in the market place if they don't also include some Software Engineering Skills.
 
 ## What does this mean to you?
-In the next 5 years i predict, all new Network / Telephony / Infrastructure gear will be be programmed primarily via API's.  
+In the next 5 years I predict all new Network / Telephony / Infrastructure gear will be be programmed primarily via API's.  
 
 This means as an Infrastructure Engineer you need to learn new skills.
 
