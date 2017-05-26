@@ -21,7 +21,10 @@ This means as an Infrastructure Engineer you need to learn new skills.
 * What is an API?
 * How can I use it to make my box do stuff?
 
-'Note: I didn't mention learning software languages.  I believe this will be useful, but not required at first'
+```
+I didn't mention learning software languages.  
+I believe this will be useful, but not required at first
+```
 
 ## Why do I need to learn this?
 I come from a Telecom background.  In the early 2000's when IP Telephony started happening, Telecom engineers who wanted to stay relevent had to learn new skills.  What's in IP address?  What a subnet?  The network engineer didn't care about this.  Nor did s/he have to.  They already had enough on their plate without having to learn about dial plans and hunt groups.  
@@ -32,7 +35,7 @@ The same shift is occuring with the move to the DevOps Model.  Software engineer
 
 
 ## Do I need to learn to become a programmer?
-Yes and No.  The more you learn, the more useful you'll be.  But unless you find you're really passionate about what programming, you don't really need to.  You mostly need to know how to talk to the programmers and how to let them know what is needed.
+Yes and No.  The more you learn, the more useful you'll be in the long run, but you're talking years of learning and studying to get good at it.  Unless you find you're really passionate about what programming, you don't really need to.  You mostly need to know how to talk to the programmers and how to let them know what is needed.
 
 
 ## Where do I start?
@@ -52,41 +55,26 @@ I'm creating this document as a way of understanding how GitHub works as well as
 
 This is a tool for parsing REST API's.  I think you can also use it for SOAP API's also, but i've not investigated.  What's really cools is you can create code snipits for whatever language your Programmers want to use.  
 
+**Pro Tip**
+```
+There are 2 versions of Postman, thick and thin.
 
+Use the thick client if you're working on Lab Boxes.
 
-
-You can use the [editor on GitHub](https://github.com/joej164/DevOps-Getting-Started/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The Google Plugin doesn't work well with devices that 
+require HTTPS but don't have secure connections.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I plan on writing a guide to using Postman from a non-programmers point of view.  I'll link that here in the future.
 
-### Jekyll Themes
+## Other things to learn
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joej164/DevOps-Getting-Started/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The following are some topics I think are going to be useful in not sounding completely lost when talking to programmers.
 
-### Support or Contact
+- Containers: This is another way of abstracting an operating system that's coming up in the industry
+  - Docker is one program
+  - Kubernetes is another
+- Open Source: Understand what this means and programmers love it
+- JSON vs XML: Why do programmers love JSON and hate XML?
+- IDE: Integrated development environment
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
