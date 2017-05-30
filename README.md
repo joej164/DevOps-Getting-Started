@@ -27,7 +27,7 @@ This means as an Infrastructure Engineer you need to learn new skills.
 ## Why do I need to learn this?
 I come from a Telecom background.  In the early 2000's when IP Telephony started happening, Telecom engineers who wanted to stay relevant had to learn new skills.  What's in IP address?  What a subnet?  The network engineer didn't care about this.  Nor did s/he have to.  They already had enough on their plate without having to learn about dial plans and hunt groups.  
 
-It was painful at first, I had to get my CCNA, but once I did, it made working in the space much easier because I could speak their language and tell them what i wanted / needed.
+It was painful at first, I had to get my CCNA, but once I did, it made working in the space much easier because I could speak their language and tell them what i wanted / needed.  More importantly, I could understand their responses.
 
 The same shift is occurring with the move to the DevOps Model.  Software engineers don't care about Telephony Dial Plans or Subnets.  They care about API's, Collaboration Tools, Open Source and various other things that I'm not fully aware of at this point in time.
 
