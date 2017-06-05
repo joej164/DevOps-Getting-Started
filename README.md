@@ -82,7 +82,7 @@ Once you've figured out how to query API's then start worring about a programmin
   * Python 3 is fairly easy to learn
     * It is being adopted by Cisco for a lot of their training
     * Good business language as it's easy for other people to read, even non-programmers
-    * If you don't want to install Python on your PC, or Linux, https://www.pythonanywhere.com is a good options (and it's free).
+    * If you don't want to install Python on your PC, or Linux, https://www.pythonanywhere.com is a good option (and it's free).
   * Both options are free and lots of training exists on the web for these topics
 
 *Python 2 and Python 3 are similar but different.  Python 2 is end of support in 2020, so learning Python 3 would probably be a better choice long term.*
